@@ -1,0 +1,2533 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 1200px) and (max-width: 1300px) {
+
+	.projects-section {
+		padding: 35px;
+	}
+
+
+
+}
+
+
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+
+	.menu-area .menu > ul {
+		flex-wrap: wrap;
+		margin-left: 100px;
+	}
+
+	.projects-section {
+		padding: 30px 0;
+	}
+
+	.projects-accordian .pf-accordion-item button h4 {
+		font-size: 36px;
+		line-height: 39px;
+		padding-top: 24px;
+		padding-bottom: 18px;
+	}
+
+	.projects-accordian .pf-accordion-item button img {
+		width: 75px;
+	}
+
+	.projects-accordian .pf-accordion-item button {
+		margin-top: 25px;
+	}
+
+	.projects-accordian .pf-accordion-item button:last-of-type {
+		margin-bottom: 25px;
+	}
+
+	.projects-accordian .projects-accordian-ctn {
+		padding: 40px 35px 20px 45px;
+	}
+
+	.footer-middle p {
+	    font-size: 18px;
+	    padding-right: 0;
+	}
+
+	.funding-hero-container {
+    	padding: 50px 35px 45px 35px;
+	}
+
+	.home-hero .carousel-control-prev-icon {
+	    width: 80px;
+	    height: 80px;
+	}
+
+	.home-hero .carousel-control-next-icon {
+	    width: 80px;
+	    height: 80px;
+	}
+
+	.home-post-area-top-left p {
+	    font-size: 20px;
+	    line-height: 24px;
+	    padding-right: 25px;
+	}
+
+	.home-post-area-middle-right {
+    	padding: 42px 25px 42px;
+	}
+
+	.home-post-area-bottom {
+	    margin-bottom: 20px;
+	}
+
+	.home-post-area-middle-right p:first-of-type {
+	    margin-bottom: 15px;
+	}
+
+	.home-post-area-bottom-left {
+	    padding: 0 25px 0 20px;
+	}
+
+	.home-post-area-bottom-left-container {
+	    display: flex;
+	    align-items: center;
+	}
+
+	.home-post-area-bottom-left-ctn {
+	    margin-left: 15px;
+	    padding-bottom: 20px;
+	}
+	.home-post-area-bottom-left-container-middle {
+	    margin: 15px 0;
+	}
+
+	.home-post-area-bottom-left-ctn h2 {
+	    font-size: 20px;
+	    line-height: 26px;
+	}
+
+	.home-post-area-bottom-left-ctn p {
+    	font-size: 16px;
+	    line-height: 19px;
+	    padding-right: 0;
+	}
+
+	/*
+	about us start here
+	*/
+
+	.about-us-post-area {
+	    margin-bottom: 21px;
+	}
+
+	.about-us-post-area h2 {
+	    font-size: 42px;
+	    line-height: 45px;
+	    padding: 15px 0 15px;
+	    border-radius: 10px;
+	    margin-top: -44px;
+	    margin-bottom: 20px;
+	}
+
+	.about-us-post-ctn {
+	    padding: 0 20px 0 20px;
+	}
+
+	.about-us-post-ctn a img {
+	    padding: 15px 5px 15px 5px;
+	    width: 65px;
+	}
+
+	.about-us-post-ctn h4 {
+	    font-size: 26px;
+	    line-height: 29px;
+	}
+
+	/*
+	about-us-why-youLead-africa
+	*/
+
+	.about-us-why-youLead-africa h2 {
+	    font-size: 22px;
+	    line-height: 25px;
+	    padding: 10px 0 10px;
+	    margin-top: -24px;
+	}
+
+	.about-us-why-youLead-africa h3:first-of-type {
+	    margin-top: 25px;
+	}
+
+	.about-us-why-youLead-africa h3 {
+	    font-size: 32px;
+	    line-height: 37px;
+	    margin-bottom: 25px;
+	}
+
+	.about-us-why-youLead-africa p {
+	    font-size: 20px;
+	    line-height: 26px;
+	    margin-bottom: 28px;
+	}
+
+	.about-us-why-youLead-africa-btm h2 {
+	    font-size: 36px;
+	    line-height: 40px;
+	    padding-top: 50px;
+	    margin-bottom: 15px;
+	}
+
+	.about-us-why-youLead-africa-btm p {
+	    font-size: 20px;
+	    line-height: 25px;
+	    margin-bottom: 57px;
+	}
+
+	.ambition-01-left,
+    .ambition-01-right {
+        padding-right: 15px;
+    }
+
+    .ambition-01-left h4,
+	.ambition-01-right h4 {
+	    font-size: 30px;
+	    line-height: 33px;
+	}
+
+	.ambition-01-left p,
+	.ambition-01-right p {
+	    font-size: 19px;
+	    line-height: 33px;
+	}
+
+	.ambition-01-right p:nth-of-type(3) {
+	    padding-bottom: 82px;
+	}
+
+	.ambition-02-right P:nth-of-type(2) {
+    	margin-bottom: 17px;
+	}
+
+	/*
+	about-us-how-we-work
+	*/
+
+	.about-us-how-we-work-middle {
+	    padding: 40px 0 30px;
+	}
+
+	.about-us-how-we-work-middle .row {
+	    --bs-gutter-x: 30px;
+	}
+
+	.about-us-how-we-work-middle-right h4 {
+	    font-size: 28px;
+	    line-height: 32px;
+	    margin-bottom: 20px;
+	    text-align: left;
+	}
+
+	.about-us-how-we-work-middle-right p {
+	    font-size: 20px;
+	    line-height: 24px;
+	    margin-bottom: 10px;
+	}
+
+	.about-us-how-we-work-btm {
+	    padding: 45px 0 20px;
+	    border-bottom: 30px solid #545353;
+	}
+
+	.about-us-how-we-work-btm .row {
+	    --bs-gutter-x: 30px;
+	} 
+
+	.about-us-how-we-work-btm h2 {
+	    font-size: 32px;
+	    line-height: 34px;
+	    margin-bottom: 15px;
+	}
+
+	.about-us-how-we-work-btm p {
+	    font-size: 20px;
+	    line-height: 24px;
+	    margin-bottom: 30px;
+	}
+
+	.about-us-how-we-work-btm-right h4 {
+	    font-size: 30px;
+	    line-height: 33px;
+	    margin-bottom: 10px;
+	    margin-top: 0;
+	}
+
+	.about-us-how-we-work-btm-right ul li {
+	    font-size: 20px;
+	    line-height: 24px;
+	}
+
+	.the-team .container {
+    	padding: 45px 50px 12px 43px ;
+	}
+
+	.the-team-post-ctn h3 {
+	    font-size: 33px;
+	    line-height: 39px;
+	}
+
+
+	.going-africa-hero {
+	    background-position: 90% 0;
+	    padding: 120px 0 65px;
+	}
+
+	.going-africa-hero-btm-ctn {
+	    background: #545353;
+	    padding: 25px 20px 15px;
+	}
+
+	.going-africa-hero-btm-ctn p {
+	    font-size: 16px;
+	    line-height: 20px;
+	    margin-bottom: 10px;
+	}
+
+	.partnerships-ctn {
+	    border-radius: 10px;
+	    padding: 25px 10px 20px;
+	    min-height: 150px;
+	    margin-bottom: 0;
+	} 
+
+	.partnerships-ctn h4 {
+	    font-size: 22px;
+	    line-height: 26px;
+	    margin-bottom: 25px;
+	}
+
+	.partnerships-ctn p {
+	    font-size: 16px;
+	    line-height: 20px;
+	}
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	
+	.menu {
+		display: none;
+	}
+
+	.humburger {
+    	display: block;
+	}
+
+	.mobile-menu {
+		width: 70%;
+	}
+	.mobile-logo a img {
+		max-width: 220px;
+	}
+
+	.humburger a {
+		padding: 5px;
+	}
+
+	/*=====home page===*/
+
+	.home-hero .carousel-control-prev-icon {
+	    width: 70px;
+	    height: 70px;
+	}
+
+	.home-hero .carousel-control-next-icon {
+	    width: 70px;
+	    height: 70px;
+	}
+
+	.home-hero-ctn {
+	    padding: 25px 0 10px;
+	    border-bottom: 15px solid rgba(20, 29, 51, 0.2);
+	}
+
+	.home-hero-ctn p {
+	    font-size: 18px;
+	    line-height: 21px;
+	}
+
+	.home-post-area-top-left p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    padding-right: 0;
+	}
+
+	.home-post-area-top-left p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    padding-right: 25px;
+	}
+
+	.home-post-area-top {
+    	padding: 30px 20px 40px 20px;
+	}
+
+	.home-post-area-middle-right {
+    	padding: 20px 15px 25px;
+	}
+
+	.home-post-area-middle-right h2 {
+	    font-size: 28px;
+	    line-height: 30px;
+	    margin-bottom: 12px;
+	    text-align: unset;
+	}
+
+	.home-post-area-middle-right h4 {
+	    font-size: 18px;
+	    line-height: 22px;
+	    text-align: unset;
+	    margin-bottom: 18px;
+	}
+
+	.home-post-area-middle-right p {
+	    font-size: 18px;
+	    line-height: 21px;
+	}
+
+	.home-post-area-middle-right p:first-of-type {
+	    margin-bottom: 10px;
+	}
+
+	.home-post-area-bottom {
+		padding: 20px 0;
+	}
+
+	.home-post-area-bottom-left-container img {
+		max-width: 80px;
+	}
+
+	.home-post-area-bottom-left {
+	    padding: 0 15px 0 15px;
+	}
+
+	.home-post-area-bottom-left-container {
+	    display: flex;
+	    align-items: center;
+	}
+
+	.home-post-area-bottom-left-ctn {
+	    margin-left: 15px;
+	    padding-bottom: 15px;
+	}
+	.home-post-area-bottom-left-container-middle {
+	    margin: 15px 0;
+	}
+
+	.home-post-area-bottom-left-ctn h2 {
+	    font-size: 26px;
+	    line-height: 28px;
+	}
+
+	.home-post-area-bottom-left-ctn p {
+    	font-size: 16px;
+	    line-height: 18px;
+	    padding-right: 0;
+	}
+
+	.home-post-area-bottom {
+    	margin-bottom: 20px;
+	}
+
+	/*
+	=========
+	projects page
+	=======
+	*/
+
+	.projects-section {
+		padding: 30px 0;
+	}
+
+	.projects-left h2 {
+	    font-size: 32px;
+	    margin-bottom: 10px;
+	}
+
+	.projects-left h3 {
+	    font-size: 20px;
+	    margin-bottom: 8px;
+	}
+
+	.projects-left a {
+	    font-size: 18px;
+	    margin-bottom: 10px;
+	}
+
+	.projects-left p {
+	    font-size: 16px;
+	    line-height: 19px;
+	}
+
+	.projects-right {
+	    padding-left: 25px;
+	}
+
+	.projects-two-focus {
+	    padding: 35px 0 30px;
+	}
+
+	.projects-two-focus-left h2 {
+	    margin-bottom: 10px;
+	    font-size: 24px;
+	}
+
+	.projects-two-focus-left p {
+	    margin-bottom: 11px;
+	}
+
+	.projects-two-focus-right {
+	    padding-left: 0;
+	}
+
+	.projects-accordian .pf-accordion-item button h4 {
+		font-size: 22px;
+		line-height: 28px;
+		padding-top: 20px;
+		padding-bottom: 16px;
+	}
+
+	.projects-accordian .pf-accordion-item button img {
+		width: 50px;
+	}
+
+	.projects-accordian .pf-accordion-item button {
+		margin-top: 15px;
+	}
+
+	.projects-accordian .pf-accordion-item button:last-of-type {
+		margin-bottom: 15px;
+	}
+
+	.projects-accordian .projects-accordian-ctn {
+		padding: 25px 25px 30px 25px;
+	}
+
+	.projects-accordian .projects-accordian-ctn h4 {
+		font-size: 24px;
+		line-height: 29px;
+		text-align: unset;
+	}
+
+	.projects-accordian .projects-accordian-ctn h5 {
+		font-size: 22px;
+		line-height: 25px;
+		text-align: unset;
+	}
+
+	.projects-accordian .projects-accordian-ctn p {
+		font-size: 18px;
+		line-height: 22px;
+	}
+
+	/*projects-africa-digital start */
+
+	.projects-africa-digital {
+	    padding-top: 50px;
+	}
+
+	.projects-africa-digital-left h2 {
+	    font-size: 42px;
+	    margin-bottom: 15px;
+	}
+
+	.projects-africa-digital-riht-ctn {
+	    padding: 15px;
+	}
+
+	.projects-africa-digital-riht-ctn p {
+	    font-size: 20px;
+	}
+
+	.projects-africa-digital-riht-ctn p:first-of-type {
+	    margin-bottom: 15px;
+	}
+
+	/*footer-section start here*/
+	.footer-section {
+	    padding: 45px 0 35px;
+	}
+
+	.footer-section h2 {
+	    font-size: 22px;
+	    letter-spacing: 1px;
+	    margin-bottom: 15px;
+	}
+
+	.footer-left ul li {
+	    font-size: 18px;
+	}
+
+	.footer-left ul li a {
+	    font-size: 18px;
+	}
+
+	.footer-logo a {
+	    display: inline-block;
+	    margin-left: -5px;
+
+	    margin-top: -10px;
+	}
+
+	.footer-middle p {
+	    padding-right: 0;
+	    margin-bottom: 30px;
+	}
+
+	.footer-right ul {
+	    display: flex;
+	}
+
+	.footer-right ul li a {
+	    margin-right: 12px;
+	}
+
+	.footer-section h3 {
+	    font-size: 22px;
+	    margin-top: 30px;
+	}
+
+
+	/*footer-section start here*/
+	.footer-section {
+	    padding: 54px 0 58px;
+	}
+
+	.footer-section h2 {
+	    font-size: 22px;
+	    margin-bottom: 16px;
+	}
+
+	.footer-middle p {
+	    font-size: 18px;
+	    padding-right: 0;
+	}
+
+	.footer-section h3 {
+	    margin-top: 10px;
+	}
+
+	/*
+	=======================
+	Founding page start here
+	=======================
+	*/
+
+	.funding-hero-container {
+	    padding: 45px 30px 40px 30px;
+	}
+
+	.funding-hero-container .row {
+	    --bs-gutter-x: 25px;
+	}
+
+	.funding-hero h2 {
+	    font-size: 58px;
+	    margin-bottom: 10px;
+	}
+
+	.funding-hero h3 {
+	    font-size: 26px;
+	    margin-bottom: 10px;
+	}
+
+
+	.funding-hero p {
+	    font-size: 18px;
+	    line-height: 21px;
+	}
+
+	.funding-accordian .funding-accordian-post-ctn02 {
+    	padding-top: 60px;
+    	padding-bottom: 90px;
+	}
+
+	.home-hero .carousel-control-prev-icon {
+	    width: 60px;
+	    height: 60px;
+	}
+
+	.home-hero .carousel-control-next-icon {
+	    width: 60px;
+	    height: 60px;
+	}
+
+	.home-post-area-bottom {
+		padding: 20px 0;
+	}
+
+	.home-post-area-bottom-left-container img {
+		max-width: 80px;
+	}
+
+	.home-post-area-bottom-left {
+	    padding: 0 15px 0 15px;
+	}
+
+	.home-post-area-bottom-left-container {
+	    display: flex;
+	    align-items: center;
+	}
+
+	.home-post-area-bottom-left-ctn {
+	    margin-left: 15px;
+	    padding-bottom: 15px;
+	}
+	.home-post-area-bottom-left-container-middle {
+	    margin: 15px 0;
+	}
+
+	.home-post-area-bottom-left-ctn h2 {
+	    font-size: 22px;
+	    line-height: 28px;
+	}
+
+	.home-post-area-bottom-left-ctn p {
+    	font-size: 15px;
+	    line-height: 18px;
+	    padding-right: 0;
+	}
+
+	.home-post-area-bottom {
+    	margin-bottom: 20px;
+	}
+
+	/*
+	research page start
+	*/
+
+	.research-top-post {
+	    margin-top: -70px;
+	}
+
+	.research-top-post-ctn {
+	    padding: 35px 15px 35px 30px;
+	}
+
+	.research-top-post span {
+	    height: 15px;
+	}
+
+	.research-top-post-ctn h2 {
+	    font-size: 32px;
+	    line-height: 38px;
+	    margin-bottom: 15px;
+	}
+
+	.research-top-post-ctn h3 {
+	    font-size: 22px;
+	    line-height: 24px;
+	    margin-bottom: 10px;
+	}
+
+	.research-top-post-ctn p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    margin-bottom: 15px;
+	}
+
+	.research-accordian .ziehharmonika h3 {
+	    font-size: 24px;
+	    line-height: 26px;
+	    padding: 32px 0 28px 18px;
+	}
+
+	.research-accordian .ziehharmonika .collapseIcon img {
+	    width: 60px !important;
+	    height: 60px !important;
+	    margin-right: 18px;
+	}
+
+	.research-accordian-post-ctn {
+	    padding: 35px 20px 20px 30px;
+	}
+
+	.research-accordian-post-ctn h4 {
+	    font-size: 26px;
+	    line-height: 26px;
+	    margin-bottom: 18px;
+	    text-align: unset;
+	}
+
+	.research-accordian-post-ctn p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    margin-bottom: 15px;
+	}
+
+	/*
+	about us start here
+	*/
+
+	.about-us-post-area {
+	    margin-bottom: 21px;
+	}
+
+	.about-us-post-area h2 {
+	    font-size: 32px;
+	    line-height: 34px;
+	    padding: 15px 0 15px;
+	    border-radius: 10px;
+	    margin-top: -35px;
+	    margin-bottom: 20px;
+	}
+
+	.about-us-post-ctn {
+	    padding: 0 10px 0 10px;
+	}
+
+	.about-us-post-ctn a img {
+	    padding: 10px 5px 10px 5px;
+	    width: 55px;
+	    display: block;
+	}
+
+	.about-us-post-ctn h4 {
+	    font-size: 20px;
+	    line-height: 23px;
+	}
+
+	/*
+	about-us-why-youLead-africa
+	*/
+
+	.about-us-why-youLead-africa h2 {
+	    font-size: 22px;
+	    line-height: 25px;
+	    padding: 10px 0 10px;
+	    margin-top: -24px;
+	}
+
+	.about-us-why-youLead-africa h3:first-of-type {
+	    margin-top: 25px;
+	}
+
+	.about-us-why-youLead-africa h3 {
+	    font-size: 28px;
+	    line-height: 32px;
+	    margin-bottom: 25px;
+	}
+
+	.about-us-why-youLead-africa p {
+	    font-size: 18px;
+	    line-height: 23px;
+	    margin-bottom: 22px;
+	}
+
+	.about-us-why-youLead-africa-btm h2 {
+	    font-size: 32px;
+	    line-height: 36px;
+	    padding-top: 40px;
+	    margin-bottom: 15px;
+	}
+
+	.about-us-why-youLead-africa-btm p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    margin-bottom: 45px;
+	}
+
+	/*
+	about-us-youth-in-politics
+	*/
+
+	.about-us-youth-in-politics h2 {
+	    font-size: 26px;
+	    line-height: 29px;
+	    padding: 12px 0 10px;
+	    margin-top: -25px;
+	}
+
+	.about-us-youth-in-politics h3:first-of-type {
+	    margin-top: 20px;
+	    margin-bottom: 15px;
+	}
+
+	.about-us-youth-in-politics h3:nth-of-type(2) {
+	    margin-bottom: 15px;
+	    margin-top: 25px;
+	}
+
+	.about-us-youth-in-politics h3 {
+	    font-size: 32px;
+	    line-height: 35px;
+	}
+
+	.about-us-youth-in-politics p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    margin-bottom: 15px;
+	}
+
+	.about-us-youth-in-politics-btm {
+	    padding: 25px 0 20px;
+	}
+
+	.about-us-youth-in-politics-btm h2 {
+	    font-size: 32px;
+	    line-height: 36px;
+	    margin-bottom: 20px;
+	}
+
+	.about-us-youth-in-politics-btm p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    margin-bottom: 15px;
+	}
+
+	.about-us-youth-in-politics-btm img {
+	    margin: 30px 0 50px;
+	}
+
+	/*
+	our-ambition
+	*/
+
+	.our-ambition {
+	    padding: 30px 0 20px;
+	}
+
+	.our-ambition-left {
+	    padding-right: 5px;
+	}
+
+	.our-ambition-left h2 {
+	    font-size: 28px;
+	    line-height: 32px;
+	    margin-bottom: 15px;
+	}
+
+	.our-ambition-left p {
+	    font-size: 18px;
+	    line-height: 21px;
+	    margin-bottom: 15px;
+	}
+
+	.our-ambition-right h2 {
+	    font-size: 32px;
+	    line-height: 38px;
+	}
+
+	.ambition-01-top {
+	    padding: 20px 0 20px 20px;
+	    border-right: 40px solid #89011C;
+	}
+
+	.ambition-01-top h2 {
+	    font-size: 32px;
+	    line-height: 37px;
+	    margin-bottom: 10px;
+	}
+
+	.ambition-01-top p {
+	    font-size: 18px;
+	    line-height: 21px;
+	    text-align: left;
+	}
+
+	.ambition-01 img {
+	    margin-bottom: 25px;
+	}
+
+	.ambition-01-left,
+	.ambition-01-right {
+	    padding-right: 5px;
+	}
+
+	@media screen and (min-width: 1199px) and (max-width: 1265px) {
+	    .ambition-01-left,
+	    .ambition-01-right {
+	        padding-right: 40px;
+	    }
+	}
+
+	.ambition-01-left h4,
+	.ambition-01-right h4 {
+	    font-size: 26px;
+	    line-height: 29px;
+	}
+
+	.ambition-01-left p,
+	.ambition-01-right p {
+	    font-size: 18px;
+	    line-height: 27px;
+	    text-align: left;
+	}
+
+	.ambition-01-left p:first-of-type {
+	    padding-bottom: 80px;
+	}
+
+	.ambition-02-left p:first-of-type {
+	    padding-bottom: 13px;
+	}
+
+	.ambition-01-left p:nth-of-type(2) {
+	    padding-bottom: 82px;
+	}
+
+	.ambition-01-left hr:nth-of-type(2),
+	.ambition-01-right hr:nth-of-type(2) {
+	    margin-bottom: 30px;
+	}
+
+	.ambition-01-left p:nth-of-type(3) {
+	    padding-bottom: 17px;
+	}
+
+	.ambition-01-right p:nth-of-type(3) {
+	    padding-bottom: 71px;
+	}
+
+	.ambition-02-right P:nth-of-type(2) {
+	    margin-bottom: 41px;
+	}
+
+	.ambition-02-right P:first-of-type {
+	    margin-bottom: 32px;
+	}
+
+	/*
+	about-us-how-we-work
+	*/
+
+	.about-us-how-we-work-middle {
+	    padding: 40px 0 25px;
+	}
+
+	.about-us-how-we-work-middle .row {
+	    --bs-gutter-x: 15px;
+	}
+
+	.about-us-how-we-work-middle-right h4 {
+	    font-size: 28px;
+	    line-height: 32px;
+	    margin-bottom: 20px;
+	    text-align: left;
+	}
+
+	.about-us-how-we-work-middle-right p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    margin-bottom: 10px;
+	}
+
+	.about-us-how-we-work-btm {
+	    padding: 35px 0 20px;
+	    border-bottom: 20px solid #545353;
+	}
+
+	.about-us-how-we-work-btm .row {
+	    --bs-gutter-x: 15px;
+	} 
+
+	.about-us-how-we-work-btm h2 {
+	    font-size: 32px;
+	    line-height: 34px;
+	    margin-bottom: 15px;
+	}
+
+	.about-us-how-we-work-btm p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    margin-bottom: 25px;
+	}
+
+	.about-us-how-we-work-btm-right h4 {
+	    font-size: 30px;
+	    line-height: 33px;
+	    margin-bottom: 10px;
+	    margin-top: 0;
+	}
+
+	.about-us-how-we-work-btm-right ul li {
+	    font-size: 18px;
+	    line-height: 22px;
+	    margin-bottom: 10px;
+	}
+
+	/*
+	the-team start
+	*/
+	.the-team .container {
+	    padding: 35px 30px 12px 30px;
+	}
+
+	.the-team h2 {
+	    font-size: 32px;
+	    line-height: 38px;
+	    margin-bottom: 7px;
+	}
+
+	.the-team-post-ctn {
+	    padding: 8px 10px 20px 18px;
+	}
+
+
+	.the-team-post-ctn h3 {
+	    font-size: 26px;
+	    line-height: 30px;
+	    margin-bottom: 8px;
+	}
+
+	.the-team-post-ctn p {
+	    font-size: 14px;
+	    line-height: 17px;
+	    margin-bottom: 10px;
+	}
+
+	.the-team-post-ctn a {
+	    font-size: 18px;
+	    line-height: 22px;
+	    padding: 10px 15px;
+	    margin-top: 10px;
+	}
+
+	.the-team-post a span {
+	    margin-right: 20px;
+	}
+
+	/*
+	going-africa start here
+	*/
+
+	.going-africa-hero {
+	    background-position: 90% 0;
+	    padding: 75px 0 35px;
+	}
+
+	.going-africa-hero h2 {
+	    font-size: 46px;
+	    line-height: 50px;
+	    margin-bottom: 15px;
+	}
+
+	.going-africa-hero p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    
+	}
+
+	.going-africa-hero-btm-post {
+	    position: unset;
+	}
+
+	.going-africa-hero-btm-ctn {
+	    background: #545353;
+	    padding: 30px 20px 15px;
+	}
+
+	.going-africa-hero-btm-ctn p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    margin-bottom: 15px;
+	}
+
+	.going-africa-post {
+	    padding: 13px 0;
+	    margin-bottom: 15px;
+	}
+
+	.going-africa-post-left h4 {
+	    font-size: 24px;
+	    line-height: 28px;
+	}
+
+	.going-africa-post-left {
+	    border-right: none;
+	    padding-left: 8px;
+	}
+
+	.going-africa-post-right {
+	    padding: 0px 0 0 44px;
+	    margin-top: 10px;
+	    border-left: 1px solid #ffffff;
+	}
+
+	.going-africa-post-right p {
+	    font-size: 18px;
+	    line-height: 22px;
+	}
+
+	.going-africa-accordian .pf-accordion-item button {
+		margin-top: 15px;
+	}
+
+	.going-africa-accordian .pf-accordion-item button:last-of-type {
+		margin-bottom: 15px;
+	}
+
+	.going-africa-accordian .pf-accordion-item h4 {
+		font-size: 22px;
+		padding: 10px 0;
+		line-height: 26px;
+	}
+
+	.going-africa-accordian .pf-accordion-item img {
+		width: 45px;
+		padding: 10px 0;
+	}
+
+	.going-africa-accordian .projects-accordian-ctn {
+	    padding: 20px 15px 15px;
+	}
+
+	.going-africa-accordian .projects-accordian-ctn p {
+	    line-height: 24px;
+	    font-size: 18px;
+	    margin-bottom: 10px;
+	}
+
+	.click-1 img {
+    	transform: rotate(90deg);
+	}
+
+	.going-africa-accordian .projects-accordian-ctn ul li {
+	    font-size: 18px;
+	    line-height: 27px;
+	}
+
+	/*
+	===============
+	events-page
+	==========
+	*/
+
+	.events-post {
+	    padding: 35px 0;
+	}
+
+	.events-post h2 {
+	    font-size: 50px;
+	    line-height: 56px;
+	    margin-bottom: 20px;
+	}
+
+	.events-post span {
+	    margin-bottom: 33px;
+	}
+
+	.events-post-right h3 {
+	    font-size: 28px;
+	    line-height: 32px;
+	    margin-bottom: 15px;
+	}
+
+	.events-post-right p {
+	    font-size: 18px;
+	    line-height: 22px;
+	}
+
+	.events-post-btm {
+	    padding: 25px 15px 30px;
+	    margin-top: 30px;
+	}
+
+	.events-post-btm p {
+		font-size: 18px;
+		line-height: 22px;
+	}
+
+	/*
+	===========
+	partnership
+	=============
+	*/
+
+	.partnership-ctn h2 {
+	    font-size: 22px;
+	    line-height:25px;
+	    margin-top: 35px;
+	    margin-bottom: 15px;
+	} 
+
+	.partnership-ctn p {
+	    font-size: 18px;
+	    line-height:22px;
+	} 
+
+	.partnerships h2 {
+	    font-size: 26px;
+	    line-height:30px;
+	    margin-top: 30px;
+	    margin-bottom: 16px;
+	}
+
+	.partnerships-ctn {
+	    border-radius: 10px;
+	    margin-bottom: 0;
+	    padding: 25px 10px 20px;
+	    min-height: unset;
+	} 
+
+	.partnerships-ctn h4 {
+	    font-size: 22px;
+	    line-height: 26px;
+	    margin-bottom: 25px;
+	}
+
+	.partnerships-ctn p {
+	    font-size: 16px;
+	    line-height: 20px;
+	}
+
+	/*
+	============
+	our-partners page
+	===============
+	*/
+
+	.our-partners-post01 {
+	    padding: 26px 0 20px;
+	}
+
+	.our-partners-post01 h2 {
+	    font-size: 28px;
+	    line-height: 32px;
+	    margin-bottom: 10px;
+	    margin-top: 0;
+	}
+
+	.our-partners-post01 p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 7px;
+	}
+
+	.our-partners-post02 {
+	    padding: 25px 0 30px;
+	}
+
+	.our-partners-post02 h2 {
+	    font-size: 28px;
+	    line-height: 30px;
+	    margin-bottom: 15px;
+	    margin-top: 0;
+	}
+
+	.our-partners-post02 p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    margin-bottom: 10px;
+	}
+
+	.our-partners-btm {
+	    padding-top: 35px;
+	}
+
+	.our-partners-btm h2 {
+	    font-size: 28px;
+	    line-height: 31px;
+	    margin-bottom: 15px;
+	}
+
+	.our-partners-btm img {
+	    margin-bottom: 25px;
+	}
+
+	.our-partners-btm p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    margin-bottom: 35px;
+	}
+
+	/*
+	==================
+	gallery page
+	============
+	*/
+
+	.gallery-video .container {
+	    padding: 40px 20px 40px;
+	    margin-top: 55px;
+	}
+
+	.gallery-video-post {
+	    padding-bottom: 30px;
+	}
+	
+
+	.gallery-post-video a img {
+	    width: 75px;
+	    padding: 20px;
+	}
+
+	.gallery-post-video a {
+	    margin-left: -38px;
+	    margin-top: -50px;
+	}
+
+	.gallery-video-post h4 {
+	    font-size: 20px;
+	    line-height: 24px;
+	    margin-top: 10px;
+	}
+
+	.gallery-video-post p {
+	    font-size: 16px;
+	    line-height: 19px;
+	}
+
+	.gallery-video h5{
+	    margin-top: -20px;
+	}
+	.gallery-video h5 a {
+	    font-size: 16px;
+	    line-height: 20px;
+	    padding: 10px 110px;
+	}
+
+	.photo-gallery {
+	   margin-top: 45px;
+	    margin-bottom: 45px; 
+	}
+
+	.photo-gallery .container {
+	    padding: 40px 20px 35px;
+	}
+
+	.photo-gallery h2 {
+	    font-size: 28px;
+	    line-height: 32px;
+	    margin-bottom: 16px;
+	}
+
+	.photo-gallery-photo {
+	    margin-bottom: 20px;
+	}
+
+	.photo-gallery-photo p {
+	    font-size: 18.3873px;
+	    line-height: 22px;
+
+	}
+
+	.photo-gallery h5{
+	    margin-top: -20px;
+	}
+	.photo-gallery h5 a {
+	    font-size: 16px;
+	    line-height: 19px;
+	    padding: 10px 110px;
+	}
+
+	.photo-gallery-photo04 {
+	    margin-bottom: 22px;
+	}
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+	
+	.menu {
+		display: none;
+	}
+
+	.humburger {
+    	display: block;
+	}
+
+	.mobile-menu {
+		display: block;
+	}
+
+	.menu-area .logo-area a img {
+    	max-width: 145px;
+	}
+
+	.mobile-logo a img {
+    	max-width: 120px;
+	}
+
+
+	/*=====home page===*/
+	.home-hero .carousel-control-prev-icon {
+	    width: 60px;
+	    height: 60px;
+	}
+
+	.home-hero .carousel-control-next-icon {
+	    width: 50px;
+	    height: 50px;
+	}
+
+	.home-hero-ctn {
+	    padding: 20px 0 10px;
+	    border-bottom: 10px solid rgba(20, 29, 51, 0.2);
+	}
+
+	.home-hero-ctn p {
+	    font-size: 16px;
+	    line-height: 19px;
+	}
+
+	.home-post-area-top-left p {
+	    font-size: 18px;
+	    line-height: 22px;
+	    padding-right: 0;
+	}
+
+	.home-post-area-top {
+    	padding: 25px 15px 15px 15px;
+	}
+
+	.home-post-area-top p:first-of-type {
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	.home-post-area-top p:last-of-type {
+		margin-bottom: 15px;
+	}
+
+	.home-post-area-middle-right {
+    	padding: 20px 15px 25px;
+	}
+
+	.home-post-area-middle-right h2 {
+	    font-size: 32px;
+	    line-height: 34px;
+	    margin-bottom: 15px;
+	    text-align: unset;
+	}
+
+	.home-post-area-middle-right h4 {
+	    font-size: 18px;
+	    line-height: 22px;
+	    text-align: unset;
+	    margin-bottom: 18px;
+	}
+
+	.home-post-area-middle-right p {
+	    font-size: 18px;
+	    line-height: 21px;
+	}
+
+	.home-post-area-middle-right p:first-of-type {
+	    margin-bottom: 10px;
+	}
+
+	.home-post-area-bottom-left-container img {
+		max-width: 80px;
+	}
+
+	.home-post-area-bottom-left {
+	    padding: 15px 15px 0 15px;
+	}
+
+	.home-post-area-bottom-left-container {
+	    display: flex;
+	    align-items: center;
+	}
+
+	.home-post-area-bottom-left-ctn {
+	    margin-left: 15px;
+	    padding-bottom: 15px;
+	}
+	.home-post-area-bottom-left-container-middle {
+	    margin: 15px 0;
+	}
+
+	.home-post-area-bottom-left-ctn h2 {
+	    font-size: 22px;
+	    line-height: 24px;
+	}
+
+	.home-post-area-bottom-left-ctn p {
+    	font-size: 16px;
+	    line-height: 19px;
+	    padding-right: 0;
+	}
+
+	.home-post-area-bottom {
+    	margin-bottom: 20px;
+	}
+
+	.projects-section {
+		padding: 30px 0 15px;
+	}
+
+	.projects-left h2 {
+	    font-size: 28px;
+	    margin-bottom: 10px;
+	}
+
+	.projects-left h3 {
+	    font-size: 20px;
+	    margin-bottom: 6px;
+	}
+
+	.projects-left a {
+	    font-size: 16px;
+	    margin-bottom: 6px;
+	}
+
+	.projects-left p {
+	    font-size: 16px;
+	    margin-bottom: 15px;
+	}
+
+	.projects-right {
+	    padding-left: 0;
+	}
+
+
+	.projects-two-focus {
+	    padding: 35px 0 30px;
+	}
+
+	.projects-two-focus-left h2 {
+	    margin-bottom: 10px;
+	    font-size: 22px;
+	    line-height: 28px;
+	}
+
+	.projects-two-focus-left p {
+	    margin-bottom: 10px;
+	    font-size: 16px;
+	    line-height: 19px;
+	}
+
+	.projects-two-focus-right {
+	    padding-left: 0;
+	}
+
+	.projects-accordian .pf-accordion-item button h4 {
+		font-size: 16px;
+		line-height: 19px;
+		padding-top: 15px;
+		padding-bottom: 12px;
+	}
+
+	.projects-accordian .pf-accordion-item button img {
+		width: 45px;
+	}
+
+	.projects-accordian .pf-accordion-item button {
+		margin-top: 15px;
+	}
+
+	.projects-accordian .pf-accordion-item button:last-of-type {
+		margin-bottom: 15px;
+	}
+
+	.projects-accordian .projects-accordian-ctn {
+		padding: 25px 15px 15px 15px;
+	}
+
+	.projects-accordian .projects-accordian-ctn h4 {
+		font-size: 20px;
+		line-height: 24px;
+		text-align: unset;
+	}
+
+	.projects-accordian .projects-accordian-ctn h5 {
+		font-size: 20px;
+		line-height: 23px;
+		text-align: unset;
+	}
+
+	.projects-accordian .projects-accordian-ctn p {
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	/*projects-africa-digital start */
+
+	.projects-africa-digital {
+	    padding-top: 50px;
+	}
+
+	.projects-africa-digital-left h2 {
+	    font-size: 28px;
+	    margin-bottom: 20px;
+	}
+
+	.projects-africa-digital-riht-ctn {
+	    padding: 15px;
+	}
+
+	.projects-africa-digital-riht-ctn p {
+	    font-size: 16px;
+	}
+
+	.projects-africa-digital-riht-ctn p:first-of-type {
+	    margin-bottom: 15px;
+	}
+
+	/*footer-section start here*/
+	.footer-section {
+	    padding: 45px 0 35px;
+	}
+
+	.footer-section h2 {
+	    font-size: 20px;
+	    letter-spacing: 1px;
+	    margin-bottom: 10px;
+	}
+
+	.footer-left ul li {
+	    font-size: 18px;
+	}
+
+	.footer-left ul li a {
+	    font-size: 18px;
+	}
+
+	.footer-logo a {
+	    display: inline-block;
+	    margin-left: -5px;
+
+	    margin-top: -15px;
+	}
+
+	.footer-middle p {
+	    padding-right: 0;
+	    margin-bottom: 30px;
+	    font-size: 16px;
+	}
+
+	.footer-right ul {
+	    display: flex;
+	}
+
+	.footer-right ul li a {
+	    margin-right: 12px;
+	}
+
+	.footer-section h3 {
+	    font-size: 18px;
+	    margin-top: 30px;
+	}
+
+	/*
+	=======================
+	Founding page start here
+	=======================
+	*/
+
+	.funding-hero-container {
+	    padding: 45px 30px 40px 30px;
+	}
+
+	.funding-hero-container .row {
+	    --bs-gutter-x: 25px;
+	}
+
+	.funding-hero h2 {
+	    font-size: 38px;
+	    margin-bottom: 10px;
+	}
+
+	.funding-hero h3 {
+	    font-size: 22px;
+	    margin-bottom: 10px;
+	}
+
+
+	.funding-hero p {
+	    font-size: 18px;
+	    line-height: 21px;
+	}
+
+	.funding-accordian .funding-accordian-post-ctn02 {
+    	padding-top: 40px;
+    	padding-bottom: 45px;
+	}
+
+		/*
+	research page start
+	*/
+
+	.research-top-post {
+	    margin-top: -40px;
+	}
+
+	.research-top-post-ctn {
+	    padding: 15px 10px 20px 10px;
+	}
+
+	.research-top-post span {
+	    height: 8px;
+	}
+
+	.research-top-post-ctn h2 {
+	    font-size: 28px;
+	    line-height: 32px;
+	    margin-bottom: 12px;
+	}
+
+	.research-top-post-ctn h3 {
+	    font-size: 20px;
+	    line-height: 22px;
+	    margin-bottom: 8px;
+	}
+
+	.research-top-post-ctn p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 10px;
+	}
+
+	.research-accordian .ziehharmonika h3 {
+	    font-size: 18px;
+	    line-height: 21px;
+	    padding: 22px 60px 23px 11px;
+	}
+
+	.research-accordian .ziehharmonika h3::before {
+		margin: 0;
+	}
+
+	.research-accordian .ziehharmonika .collapseIcon img {
+	    width: 44px !important;
+	    height: 45px !important;
+	    margin-right: 0;
+	}
+
+	.research-accordian-post-ctn {
+	    padding: 25px 10px 15px 10px;
+	}
+
+	.research-accordian-post-ctn h4 {
+	    font-size: 20px;
+	    line-height: 24px;
+	    margin-bottom: 15px;
+	    text-align: unset;
+	}
+
+	.research-accordian-post-ctn p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 10px;
+	}
+
+	/*
+	about us start here
+	*/
+
+	.about-us-post-area {
+	    margin-bottom: 15px;
+	}
+
+	.about-us-post-area h2 {
+	    font-size: 28px;
+	    line-height: 31px;
+	    padding: 12px 0 12px;
+	    border-radius: 10px;
+	    margin-top: -28px;
+	    margin-bottom: 12px;
+	}
+
+	.about-us-post-ctn {
+	    padding: 0 10px 0 10px;
+	}
+
+	.about-us-post-ctn a img {
+	    padding: 10px 5px 10px 5px;
+	    width: 55px;
+	    display: block;
+	}
+
+	.about-us-post-ctn h4 {
+	    font-size: 20px;
+	    line-height: 23px;
+	}
+
+	/*
+	about-us-why-youLead-africa
+	*/
+
+	.about-us-why-youLead-africa h2 {
+	    font-size: 22px;
+	    line-height: 25px;
+	    padding: 10px 0 10px;
+	    margin-top: -24px;
+	}
+
+	.about-us-why-youLead-africa h3:first-of-type {
+	    margin-top: 20px;
+	}
+
+	.about-us-why-youLead-africa h3 {
+	    font-size: 22px;
+	    line-height: 25px;
+	    margin-bottom: 18px;
+	}
+
+	.about-us-why-youLead-africa p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 18px;
+	}
+
+	.about-us-why-youLead-africa-btm h2 {
+	    font-size: 26px;
+	    line-height: 29px;
+	    padding-top: 30px;
+	    margin-bottom: 10px;
+	}
+
+	.about-us-why-youLead-africa-btm p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 29px;
+	}
+
+	/*
+	about-us-youth-in-politics
+	*/
+
+	.about-us-youth-in-politics h2 {
+	    font-size: 22px;
+	    line-height: 25px;
+	    padding: 11px 0 10px;
+	    margin-top: -25px;
+	}
+
+	.about-us-youth-in-politics h3:first-of-type {
+	    margin-top: 20px;
+	    margin-bottom: 15px;
+	}
+
+	.about-us-youth-in-politics h3:nth-of-type(2) {
+	    margin-bottom: 15px;
+	    margin-top: 25px;
+	}
+
+	.about-us-youth-in-politics h3 {
+	    font-size: 22px;
+	    line-height: 25px;
+	}
+
+	.about-us-youth-in-politics p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 15px;
+	}
+
+	.about-us-youth-in-politics-btm {
+	    padding: 25px 0 20px;
+	}
+
+	.about-us-youth-in-politics-btm h2 {
+	    font-size: 23px;
+	    line-height: 26px;
+	    margin-bottom: 15px;
+	}
+
+	.about-us-youth-in-politics-btm p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 15px;
+	}
+
+	.about-us-youth-in-politics-btm img {
+	    margin: 10px 0 30px;
+	}
+
+	/*
+	our-ambition
+	*/
+
+	.our-ambition {
+	    padding: 25px 0 20px;
+	}
+
+	.our-ambition-left {
+	    padding-right: 15px;
+	}
+
+	.our-ambition-left h2 {
+	    font-size: 26px;
+	    line-height: 30px;
+	    margin-bottom: 15px;
+	}
+
+	.our-ambition-left p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 15px;
+	}
+
+	.our-ambition-right h2 {
+	    font-size: 24px;
+	    line-height: 28px;
+	}
+
+	.ambition-01-top {
+	    padding: 15px 0 15px 15px;
+	    border-right: 15px solid #89011C;
+	}
+
+	.ambition-01-top h2 {
+	    font-size: 28px;
+	    line-height: 34px;
+	    margin-bottom: 10px;
+	}
+
+	.ambition-01-top p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    text-align: left;
+	}
+
+	.ambition-01 img {
+	    margin-bottom: 25px;
+	}
+
+	.ambition-01-left,
+	.ambition-01-right {
+	    padding-right: 15px;
+	}
+
+	@media screen and (min-width: 1199px) and (max-width: 1265px) {
+	    .ambition-01-left,
+	    .ambition-01-right {
+	        padding-right: 40px;
+	    }
+	}
+
+	.ambition-01-left h4,
+	.ambition-01-right h4 {
+	    font-size: 26px;
+	    line-height: 29px;
+	}
+
+	.ambition-01-left p,
+	.ambition-01-right p {
+	    font-size: 16px;
+	    line-height: 23px;
+	    text-align: left;
+	}
+
+	.ambition-01-left p:first-of-type {
+	    padding-bottom: 20px;
+	}
+
+	.ambition-01-left p:nth-of-type(2) {
+	    padding-bottom: 15px;
+	}
+
+	.ambition-01-left hr:nth-of-type(2),
+	.ambition-01-right hr:nth-of-type(2) {
+	    margin-bottom: 30px;
+	}
+
+	.ambition-01-left p:nth-of-type(3) {
+	    padding-bottom: 17px;
+	}
+
+	.ambition-01-right p:nth-of-type(3) {
+	    padding-bottom: 20px;
+	}
+
+	.ambition-01-left hr:nth-of-type(4) {
+    	display: block;
+	}
+
+	.ambition-02-right P:nth-of-type(2) {
+	    margin-bottom: 30px;
+	}
+
+	.ambition-02-right P:first-of-type {
+    	margin-bottom: 30px;
+	}
+
+	/*
+	about-us-how-we-work
+	*/
+
+	.about-us-how-we-work-middle {
+	    padding: 31px 0 20px;
+	}
+
+	.about-us-how-we-work-middle .row {
+	    --bs-gutter-x: unset;
+	}
+
+	.about-us-how-we-work-middle-right h4 {
+	    font-size: 26px;
+	    line-height: 30px;
+	    margin-bottom: 20px;
+	    text-align: left;
+	}
+
+	.about-us-how-we-work-middle-right p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 10px;
+	}
+
+	.about-us-how-we-work-btm {
+	    padding: 25px 0 15px;
+	    border-bottom: 15px solid #545353;
+	}
+
+	.about-us-how-we-work-btm .row {
+	    --bs-gutter-x: unset;
+	} 
+
+	.about-us-how-we-work-btm h2 {
+	    font-size: 28px;
+	    line-height: 31px;
+	    margin-bottom: 15px;
+	}
+
+	.about-us-how-we-work-btm p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 25px;
+	}
+
+	.about-us-how-we-work-btm-right h4 {
+	    font-size: 28px;
+	    line-height: 31px;
+	    margin-bottom: 10px;
+	    margin-top: 15px;
+	}
+
+	.about-us-how-we-work-btm-right ul li {
+	    font-size: 16px;
+	    line-height: 20px;
+	    margin-bottom: 10px;
+	}
+
+	/*
+	the-team start
+	*/
+	.the-team .container {
+	    padding: 35px 15px 12px 15px;
+	}
+
+	.the-team h2 {
+	    font-size: 36px;
+	    line-height: 44px;
+	    margin-bottom: 7px;
+	}
+
+	.the-team-post-ctn {
+	    padding: 8px 10px 20px 18px;
+	}
+
+
+	.the-team-post-ctn h3 {
+	    font-size: 32px;
+	    line-height: 37px;
+	    margin-bottom: 10px;
+	}
+
+	.the-team-post-ctn p {
+	    font-size: 14px;
+	    line-height: 17px;
+	    margin-bottom: 10px;
+	}
+
+	.the-team-post-ctn a {
+	    font-size: 22px;
+	    line-height: 26px;
+	    padding: 10px 15px;
+	    margin-top: 10px;
+	}
+
+	.the-team-post a span {
+	    margin-right: 20px;
+	}
+
+	/*
+	going-africa start here
+	*/
+
+	.going-africa-hero {
+	    background-position: 90% 0;
+	    padding: 65px 0 35px;
+	}
+
+	.going-africa-hero h2 {
+	    font-size: 34px;
+	    line-height: 38px;
+	    margin-bottom: 15px;
+	}
+
+	.going-africa-hero p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    
+	}
+
+	.going-africa-hero-btm-post {
+	    position: unset;
+	}
+
+	.going-africa-hero-btm-ctn {
+	    background: #545353;
+	    padding: 20px 15px 10px;
+	}
+
+	.going-africa-hero-btm-ctn p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 10px;
+	}
+
+	.going-africa-post {
+	    padding: 20px 0;
+	    margin-bottom: 10px;
+	}
+
+	.going-africa-post-left h4 {
+	    font-size: 24px;
+	    line-height: 31px;
+	}
+
+	.going-africa-post-left h4 br {
+		display: none;
+	}
+
+	.going-africa-post-left {
+	    border-right: 1px solid #ffffff;
+	    padding-left: 5px;
+	}
+
+	.going-africa-post-right {
+	    padding: 0px 5px;
+	    margin-top: 10px;
+	}
+
+	.going-africa-post-right p {
+	    font-size: 16px;
+	    line-height: 19px;
+	}
+
+	.going-africa-accordian .pf-accordion-item button {
+		margin-top: 7px;
+	}
+
+	.going-africa-accordian .pf-accordion-item button:last-of-type {
+		margin-bottom: 15px;
+	}
+
+	.going-africa-accordian .pf-accordion-item h4 {
+		font-size: 20px;
+		padding: 5px 0;
+		line-height: 25px;
+	}
+
+	.going-africa-accordian .pf-accordion-item img {
+		width: 40px;
+		padding: 5px 0;
+	}
+
+	.going-africa-accordian .projects-accordian-ctn {
+	    padding: 20px 15px 15px;
+	}
+
+	.going-africa-accordian .projects-accordian-ctn p {
+	    line-height: 19px;
+	    font-size: 16px;
+	    margin-bottom: 7px;
+	}
+
+	.click-1 img {
+    	transform: rotate(90deg);
+	}
+
+	.going-africa-accordian .projects-accordian-ctn ul li {
+	    font-size: 16px;
+	    line-height: 25px;
+	}
+
+	/*
+	===============
+	events-page
+	==========
+	*/
+
+	.events-post {
+	    padding: 25px 0;
+	}
+
+	.events-post h2 {
+	    font-size: 44px;
+	    line-height: 50px;
+	    margin-bottom: 15px;
+	}
+
+	.events-post span {
+	    margin-bottom: 25px;
+	}
+
+	.events-post-right h3 {
+	    font-size: 24px;
+	    line-height: 28px;
+	    margin-bottom: 12px;
+	}
+
+	.events-post-right p {
+	    font-size: 16px;
+	    line-height: 19px;
+	}
+
+	.events-post-btm {
+	    padding: 25px 15px 30px;
+	    margin-top: 30px;
+	}
+
+	.events-post-btm p {
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	/*
+	===========
+	partnership
+	=============
+	*/
+
+	.partnership-ctn h2 {
+	    font-size: 22px;
+	    line-height:25px;
+	    margin-top: 28px;
+	    margin-bottom: 15px;
+	} 
+
+	.partnership-ctn p {
+	    font-size: 16px;
+	    line-height:19px;
+	} 
+
+	.partnerships h2 {
+	    font-size: 26px;
+	    line-height:29px;
+	    margin-top: 30px;
+	    margin-bottom: 18px;
+	}
+
+	.partnerships-ctn {
+	    border-radius: 10px;
+	    margin-bottom: 0;
+	    padding: 25px 20px 20px;
+	    min-height: unset;
+	} 
+
+	.partnerships-ctn h4 {
+	    font-size: 22px;
+	    line-height: 26px;
+	    margin-bottom: 25px;
+	}
+
+	.partnerships-ctn p {
+	    font-size: 16px;
+	    line-height: 20px;
+	}
+
+	/*
+	============
+	our-partners page
+	===============
+	*/
+
+	.our-partners-post01 {
+	    padding: 26px 0 20px;
+	}
+
+	.our-partners-post01 h2 {
+	    font-size: 28px;
+	    line-height: 34px;
+	    margin-bottom: 10px;
+	    margin-top: 15px;
+	}
+
+	.our-partners-post01 p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 10px;
+	}
+
+	.our-partners-post02 {
+	    padding: 25px 0 20px;
+	}
+
+	.our-partners-post02 h2 {
+	    font-size: 28px;
+	    line-height: 34px;
+	    margin-bottom: 11px;
+	    margin-top: 15px;
+	}
+
+	.our-partners-post02 p {
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-bottom: 10px;
+	}
+
+	.our-partners-btm {
+	    padding-top: 35px;
+	}
+
+	.our-partners-btm h2 {
+	    font-size: 22px;
+	    line-height: 24px;
+	    margin-bottom: 15px;
+	}
+
+	.our-partners-btm img {
+	    margin-bottom: 25px;
+	}
+
+	.our-partners-btm p {
+	    font-size: 16px;
+	    line-height: 20px;
+	    margin-bottom: 25px;
+	}
+
+	/*
+	==================
+	gallery page
+	============
+	*/
+
+	.gallery-video .container {
+	    padding: 30px 20px 20px;
+	    margin-top: 40px;
+	}
+
+	.gallery-video-post {
+	    padding-bottom: 30px;
+	}
+	
+
+	.gallery-post-video a img {
+	    width: 75px;
+	    padding: 20px;
+	}
+
+	.gallery-post-video a {
+	    margin-left: -38px;
+	    margin-top: -50px;
+	}
+
+	.gallery-video-post h4 {
+	    font-size: 20px;
+	    line-height: 24px;
+	    margin-top: 10px;
+	}
+
+	.gallery-video-post p {
+	    font-size: 16px;
+	    line-height: 19px;
+	}
+
+	.gallery-video h5{
+	    margin-top: -20px;
+	}
+
+	.gallery-video h5 a {
+	    font-size: 16px;
+	    line-height: 20px;
+	    padding: 10px 110px;
+	}
+
+	.photo-gallery {
+	   margin-top: 45px;
+	    margin-bottom: 30px; 
+	}
+
+	.photo-gallery .container {
+	    padding: 30px 20px 30px;
+	}
+
+	.photo-gallery h2 {
+	    font-size: 28px;
+	    line-height: 32px;
+	    margin-bottom: 16px;
+	}
+
+	.photo-gallery-photo {
+	    margin-bottom: 20px;
+	}
+
+	.photo-gallery-photo p {
+	    font-size: 18.3873px;
+	    line-height: 22px;
+
+	}
+
+	.photo-gallery h5{
+	    margin-top: -20px;
+	}
+	.photo-gallery h5 a {
+	    font-size: 16px;
+	    line-height: 19px;
+	    padding: 10px 110px;
+	}
+
+	.photo-gallery-photo04 {
+	    margin-bottom: 9px;
+	}
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+}
